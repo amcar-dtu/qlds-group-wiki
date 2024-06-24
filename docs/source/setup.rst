@@ -1,3 +1,4 @@
+=====
 Setup
 =====
 
@@ -169,6 +170,6 @@ Complete DFM Setup Scheme
 
 |dfm_pl_setup_scheme.svg|
 
-.. |dfm_pl_setup_scheme.svg| image:: ../media/setup/dfm_pl_setup_scheme.svg.png
+.. |dfm_pl_setup_scheme.svg| image:: ../media/setup/dfm_pl_setup_scheme.svg
     :width: 100%
 
