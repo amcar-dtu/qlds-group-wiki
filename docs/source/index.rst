@@ -1,10 +1,7 @@
-Welcome to Lumache's documentation!
-===================================
+Quantum Photonics of Low-Dimensional Systems (QLDS) group Wiki
+======================================================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+In the `Quantum Photonics of Low-Dimensional Systems group <https://electro.dtu.dk/research/research-areas/nanophotonics/quantum-photonics-of-low-dimensional-systems>`_ at DTU Electro we try to discover new ways to use light, and we study how to create ever smaller light sources to meet the world's need for communication technologies in a more energy-friendly way.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.

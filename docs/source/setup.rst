@@ -53,6 +53,15 @@ Lasers
 |           |                                     |            |                   |
 +-----------+-------------------------------------+------------+-------------------+
 
+Cobolt Laser Current-Power at Nikon Characteristic
+------------------------------------------------------
+
+|cobolt_ip_charact|
+
+.. |cobolt_ip_charact| image:: ../media/setup/cobolt_ip_charact.png
+    :width: 100%
+
+
 Optics
 ======
 
@@ -153,3 +162,13 @@ Microscope
 +------------------+----------------+----------------+----------------+
 |                  |                |                |                |
 +------------------+----------------+----------------+----------------+
+
+
+Complete DFM Setup Scheme
+==========================
+
+|dfm_pl_setup_scheme.svg|
+
+.. |dfm_pl_setup_scheme.svg| image:: ../media/setup/dfm_pl_setup_scheme.svg.png
+    :width: 100%
+
