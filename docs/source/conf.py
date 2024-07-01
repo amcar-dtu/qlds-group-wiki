@@ -3,8 +3,8 @@
 # -- Project information
 
 project = 'QLDS Wiki'
-copyright = '2024, Ameeee'
-author = 'Grazia Graziella & Graziearc...'
+copyright = '2024, DTU'
+author = 'Amedeo'
 
 release = '0.1'
 version = '0.1.0'
@@ -35,3 +35,6 @@ html_theme = 'furo'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+# -- Options for code snippets
+pygments_style = 'sphinx'

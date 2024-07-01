@@ -32,3 +32,15 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+Tips and Utils
+==============
+
+Terminal Commands
+------------------
+
+- List all files recursively satisfying a specific search item (filter):
+
+   .. code-block:: powershell
+
+      > Get-ChildItem -Path . -Filter *.pdf -Recurse -File | % { Write-Host $_.FullName }
+
