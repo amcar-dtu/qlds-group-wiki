@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+QLDS Group Wiki
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This Sphinx docs are documenting the setup and guidelines for the research group of `Quantum Photonics of Low-Dimensional Systems group <https://electro.dtu.dk/research/research-areas/nanophotonics/quantum-photonics-of-low-dimensional-systems>`_ at DTU Electro.
 
-Read the tutorial here:
+Read the Wiki here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://qlds-group-wiki.readthedocs.io/en/latest/setup.html
