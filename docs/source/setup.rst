@@ -167,10 +167,10 @@ Microscope
 Laser Power Calibration at Objective output
 -------------------------------------------
 +-------------+---------------+-------------+-------+----------------------+----------------------------------------------+-----------------------------+
-| Objective   | Magnification | BS/Dichroic | LP/ND | Laser P @ Nikon (mW) | filename                                     | Meas. Power after Objective |
+| Objective   | Magnification | BS/Dichroic | LP/ND | Laser Power at Nikon | filename                                     | Meas. Power after Objective |
 +=============+===============+=============+=======+======================+==============================================+=============================+
-| 50x/0.6 NA  | 1.0           | BS          | LP    | 3.04                 | laser_515nm_spot_vb5k_50x_1.0x_bs_lp550_01	  | 0.162 mW                    |
-| 100x/0.9 NA | 1.0           | BS          | LP    | 3.04                 | laser_515nm_spot_vb5k_100x_1.0x_bs_lp550_01  | 0.122 mW                    |
+| 50x/0.6 NA  | 1.0           | BS          | LP    | 3.04 mW              | laser_515nm_spot_vb5k_50x_1.0x_bs_lp550_01	  | 0.162 mW                    |
+| 100x/0.9 NA | 1.0           | BS          | LP    | 3.04 mW              | laser_515nm_spot_vb5k_100x_1.0x_bs_lp550_01  | 0.122 mW                    |
 +-------------+---------------+-------------+-------+----------------------+----------------------------------------------+-----------------------------+
 
 
